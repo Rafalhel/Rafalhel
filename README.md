@@ -1,6 +1,10 @@
-### Hi there 👋
+### Rafael Gomes da Silva
 
-**Rafalhel/Rafalhel** 
+- 👤 Python Developer
+- 📝 Computer Science student
+- 🛠 Currently working with full-stack
+
+
  <div>
   <a href="https://github.com/rafalhel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafalhel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
