@@ -2,7 +2,7 @@
 
 - 👤 Python Developer
 - 📝 Computer Science student
-- 🛠 Currently working with full-stack
+- 🛠 Currently working as full-stack
 
 
  <div>
