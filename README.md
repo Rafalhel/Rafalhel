@@ -1,7 +1,7 @@
 ### Rafael Gomes da Silva
 
 - 👤 Python Developer
-- 📝 Computer Science student
+- 📝 Computer Science
 - 🛠 Currently working as full-stack
 
 
